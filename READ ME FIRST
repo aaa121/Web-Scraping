@@ -1,0 +1,18 @@
+
+READ ME FIRST!!!
+1. identify the number of adverts on the first page
+2. Know where the stopped before and after the advert. or know many advert that has rating.
+3. It is better to sort by rating and use the url to scrape the web for the required info.
+
+
+http://www.yellowpages.com/search?search_terms=coffee&geo_location_terms=Los+Angeles%2C+CA
+http://www.yellowpages.com/search?search_terms=coffee&geo_location_terms=Los%20Angeles%2C%20CA&page=2
+
+http://www.yellowpages.com/search?search_terms=coffee&geo_location_terms=Los%20Angeles%2C%20CA
+
+
+Sort by Rating:
+
+http://www.yellowpages.com/search?search_terms=coffee&geo_location_terms=Los%20Angeles%2C%20CA&s=average_rating&page=10
+
+http://www.yellowpages.com/search?search_terms=coffee&geo_location_terms=Los%20Angeles%2C%20CA&s=average_rating&page=1

@@ -1,0 +1,18 @@
+"div", {"id":"ecb-content-col"}
+
+"div", {"class":"forextable"}
+
+"table", {"class":"ecb-forexTable fullWidth"}
+
+
+span class="rate">9.4760</span>
+
+<a href="eurofxref-graph-nok.en.html">NOK</a>
+
+
+<tr>
+<td class="currency" id="NOK"><a href="eurofxref-graph-nok.en.html">NOK</a></td>
+<td class="alignLeft"><a href="eurofxref-graph-nok.en.html">Norwegian krone</a></td>
+<td class="spot number"><a href="eurofxref-graph-nok.en.html"><span class="rate">9.4760</span></a><span class="trend"><img alt="down" height="9" src="../shared/img/down.gif" title="" width="9"/></span></td>
+<td class="w5"><a href="eurofxref-graph-nok.en.html"><img alt="NOK" height="15" src="/shared/img/fxref.gif" title="" width="19"/></a></td>
+</tr>,
